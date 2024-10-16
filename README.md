@@ -1,7 +1,5 @@
 # CTunes Application
 
-<img src="https://firebasestorage.googleapis.com/v0/b/music-player-610d3.appspot.com/o/App%20Images%2Flogo2r.png?alt=media&token=0c06d0d2-889d-4d86-a325-cc18c247949e" alt="CTunes Logo" width="300"/>
-
 **CTunes** is a feature-rich music player application built using Android with ExoPlayer integration, Firebase Firestore for data management, and Glide for efficient image loading. This app offers a seamless music playback experience with various features to enhance user interaction.
 
 ## Features
